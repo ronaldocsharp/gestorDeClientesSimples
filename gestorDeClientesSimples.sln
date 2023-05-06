@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gestorDeClientesSimples", "gestorDeClientesSimples.csproj", "{B2D36CBA-2F3A-4E57-B804-BBD0A12B0D4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2D36CBA-2F3A-4E57-B804-BBD0A12B0D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D36CBA-2F3A-4E57-B804-BBD0A12B0D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D36CBA-2F3A-4E57-B804-BBD0A12B0D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D36CBA-2F3A-4E57-B804-BBD0A12B0D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0033A30C-8A9F-4064-815F-EC4B98517A9E}
+	EndGlobalSection
+EndGlobal
